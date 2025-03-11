@@ -2,8 +2,6 @@
 const sounds = [
   new Audio("/audio/mixkit-male-voice-cheer-victory-2011.wav"),
   new Audio("./BIỆT GIANG HỒ REMIX.mp3"),
-//   new Audio('sound3.mp3'),
-  // new Audio('sound4.mp3')
 ];
 
 
